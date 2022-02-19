@@ -1,0 +1,21 @@
+textarea{   
+    resize: none;
+    font: 1em sans-serif;
+    display: flex;   
+    width: 60%;
+    margin: auto;
+    font-weight: 300;
+    font-size: 25px;
+
+}
+.btn_enviar{
+    display: flex;   
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    background-color: #dfd5d5be;
+    color: #000000;
+    font-size: 1rem;
+    padding: .6em .3em;
+    font-family: 'Roboto', sans-serif;
+}
